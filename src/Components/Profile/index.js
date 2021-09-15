@@ -11,7 +11,7 @@ const Profile =()=> {
   const [ skills, setSkills ] = useState([])
 
   useEffect ( ()=>{
-    axios.get("../js/data.json").then( res => { setSkills(res.data.Skills)})
+    axios.get("js/data.json").then( res => { setSkills(res.data.Skills)})
   }, [])
   
   const SkillsInfo = skills.map( (skillsItem) =>{

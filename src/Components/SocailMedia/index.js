@@ -7,7 +7,7 @@ const SocailMedia =()=> {
 
   const [socials, setSocails] = useState([])
   useEffect( ()=>{
-    axios.get("../js/data.json").then( res => { setSocails(res.data.social)})
+    axios.get("js/data.json").then( res => { setSocails(res.data.social)})
   }, [])
 
   const Smedia = socials.map( (socialItem) =>{
