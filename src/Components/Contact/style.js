@@ -36,7 +36,8 @@ export const InputText= styled(Input)`
 
 `
 export const InputEmail = styled(Input)`
-    float: right
+    float: right:
+    width: 49%
 `
 export const InputExp = styled(Input) `
     width: 100%;

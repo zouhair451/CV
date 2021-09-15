@@ -28,7 +28,7 @@ const Profile =()=> {
   return (
   <ProfileSkillsSection>
 
-      <div class="container">
+      <div className="container">
 
           <ProfileSkills>
               <ProfileTitle><SpanProfileTitle>My </SpanProfileTitle>Profile</ProfileTitle>
