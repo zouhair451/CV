@@ -2,6 +2,7 @@
 import { ContactSection, ContactTitle, Span, Form, FormInput, InputText,InputEmail, InputExp, TextArea, InputSubmit } from './style.js'
 import Footer from '../Footer/index.js';
 import React, { Fragment} from 'react';
+
 const Contact =()=> {
   return (
     <Fragment>
