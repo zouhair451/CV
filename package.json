@@ -1,5 +1,6 @@
 {
-  "name": "http://zouhair451.github.io/CV",
+  "homepage": "http://zouhair451.github.io/CV",
+  "name": "ultra",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
