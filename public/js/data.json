@@ -1,0 +1,104 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-link fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer-alt fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/Portfolio/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/Portfolio/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/Portfolio/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/Portfolio/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/Portfolio/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/Portfolio/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/Portfolio/portfolio-img8.jpg"
+        }
+    ] ,
+    "Profile" : [
+        {
+            "name": "Zouhair Seghrouchni",
+            "Birthday": "06/12/1992",
+            "Address": "Nizhny Novgorod",
+            "Phone": "+7 999 121 54 98",
+            "Email": "zouhair451@gmail.com",
+            "WebSite": "https://vk.com/cerpo"
+        }
+    ],
+    "Skills" : [
+        {
+            "id":1,
+            "skillsBarTitle": "Bootstrap",
+            "skillsBarPerc": "100%"
+        },
+        {
+            "id":2,
+            "skillsBarTitle": "CSS3",
+            "skillsBarPerc": "90%"
+        },
+        {
+            "id":3,
+            "skillsBarTitle": "Photoshop",
+            "skillsBarPerc": "80%"
+        }
+    ],
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fab fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fab fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fab fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] 
+}
